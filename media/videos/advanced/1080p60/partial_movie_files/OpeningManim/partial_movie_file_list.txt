@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3529212410_523387498_223132457.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_667144672_615879466.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_1886858881_2729765666.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_667144672_560652867.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_153580058_613327044.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_667144672_547365067.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_2667607936_200010202.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_667144672_3473402779.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_1034688503_1469747199.mp4'
+file 'file:C:/Users/jonat/PycharmProjects/maninExamples/media/videos/advanced/1080p60/partial_movie_files/OpeningManim/3040924799_667144672_928844643.mp4'
