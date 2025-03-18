@@ -1,5 +1,10 @@
-# Explicación del proyecto
+# Mathematical animations with Python 
+ 
+>[!note]
+> by: Jonathan Panchana Rodríguez
 
-> Realizado por: Jonathan Panchana Rodríguez
+Animations of math and calculus exercises using the **_manimGL_** library in **_Python_**.
 
-Como detalle adicional, aquí guardo los ejercicios resueltos de los cursos de cálculo de mi carrera.
+Here you can find animations on the following topics:
+
+- Vectors in space.
